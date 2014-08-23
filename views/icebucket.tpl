@@ -27,7 +27,7 @@
         <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
         <script>window.jQuery || document.write('<script src="/static/js/vendor/jquery-1.10.2.min.js"><\/script>')</script>
         <script src="/static/js/plugins.js"></script>
-	<script src="/static/js/vendor/sigma.require.js"></script>
+	<script src="/static/js/vendor/sigma.js/sigma.require.js"></script>
         <script src="/static/js/main.js"></script>
 
         <!-- Google Analytics: change UA-XXXXX-X to be your site's ID. -->
